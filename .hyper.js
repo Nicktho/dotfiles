@@ -146,7 +146,9 @@ module.exports = {
   //   `hyperpower`
   //   `@company/project`
   //   `project#1.0.1`
-  plugins: [],
+  plugins: [
+    "hyper-rose-pine",
+  ],
 
   // in development, you can create a directory under
   // `~/.hyper_plugins/local/` and include it here
