@@ -147,7 +147,8 @@ module.exports = {
   //   `@company/project`
   //   `project#1.0.1`
   plugins: [
-    "hyper-rose-pine",
+    "hyper-midnight",
+    "hypercwd"
   ],
 
   // in development, you can create a directory under
