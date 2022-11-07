@@ -5,8 +5,9 @@ zplug "zplug/zplug", hook-build:"zplug --self-manage"
 zplug "zsh-users/zsh-history-substring-search"
 
 zplug "plugins/git", from:oh-my-zsh
+zplug "djui/alias-tips"
 
-zplug "rupa/z"
+zplug "agkozak/zsh-z"
 
 zplug "mafredri/zsh-async", from:github
 
